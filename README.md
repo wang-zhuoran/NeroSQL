@@ -16,15 +16,15 @@
 
 ## To-Do List
 
-\- [ ] SQL Parser 
+- [ ] SQL Parser
 
-\- [ ] Planner
+- [ ] Planner
 
-\- [ ] Executor
+- [ ] Executor
 
-\- [ ] Optimization
+- [ ] Optimization
 
-\- [ ] Distributed Architecture 
+- [ ] Distributed Architecture 
 
 
 
