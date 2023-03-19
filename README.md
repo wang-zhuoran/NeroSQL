@@ -16,7 +16,7 @@
 
 ## To-Do List
 
-- [x] SQL Parser
+- [ ] SQL Parser (nearly done...)
 - [ ] AI operation parser
 
 - [ ] Planner
