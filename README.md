@@ -1,4 +1,5 @@
 # A distributed SQL Engine supporting AI model
+<a href="https://godoc.org/github.com/src-d/go-mysql-server"><img alt="GoDoc" src="https://godoc.org/github.com/src-d/go-mysql-server?status.svg" /></a>
 
 - Final Year Project
 
