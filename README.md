@@ -16,7 +16,7 @@
 
 ## To-Do List
 
-- [ ] SQL Parser (nearly done...)
+- [x] SQL Parser
 - [ ] AI operation parser
 
 - [ ] Planner
@@ -25,7 +25,7 @@
 
 - [ ] Optimization
 
-- [ ] Distributed Architecture 
+- [x] Distributed Architecture 
 
 
 
