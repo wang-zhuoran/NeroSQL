@@ -18,11 +18,11 @@
 ## To-Do List
 
 - [x] SQL Parser
-- [ ] AI operation parser
+- [x] AI operation parser
 
-- [ ] Planner
+- [x] Planner
 
-- [ ] Executor
+- [x] Executor
 
 - [ ] Optimization
 
